@@ -1,4 +1,3 @@
-# user-authentication-crud-system
 Here’s the requested information in plain text format for your `README.md` file without JSON file format:
 
 ---
